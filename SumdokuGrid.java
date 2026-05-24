@@ -3,7 +3,6 @@
  * to be used in a SumdokuPuzzle.
  *
  * @author rodrigostamartacoelho fc61771
- * @author joãopereira fc63779
  */
 public class SumdokuGrid{
    // atributes / fields
