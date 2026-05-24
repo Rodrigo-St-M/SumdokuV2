@@ -2,7 +2,6 @@
  * The class {@code SumdokuPuzzle} represents a SumdokuPuzzle
  *
  * @author rodrigostamartacoelho fc61771
- * @author joãopereira fc63779
  */
 public class SumdokuPuzzle {
 
