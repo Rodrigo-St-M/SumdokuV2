@@ -4,7 +4,6 @@ import java.util.Random;
  * randomly from a pool of built in SumdokuPuzzles.
  *
  * @author rodrigostamartacoelho fc61771
- * @author joãopereira fc63779
  */
 public class RandomSumdokuPuzzle {
 
