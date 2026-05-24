@@ -4,7 +4,6 @@ import java.util.Scanner;
  * The {@code SumdokuTxt} class is a textual implementation of the videogame Sumdoku.
  *
  * @author rodrigostamartacoelho
- * @author joãopereira
  */
 public class SumdokuTxt {
 
